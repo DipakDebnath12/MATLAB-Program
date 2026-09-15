@@ -1,3 +1,4 @@
+% leapyear
 clc;clear
 year=input('Eneter a year :');
 if(mod(year,100)==0)
